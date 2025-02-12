@@ -10,7 +10,7 @@ You are supposed to be looking at a mostly blank screen! The project it supposed
 - [HOW TO BUILD A SMART MIRROR](https://www.youtube.com/watch?v=aa3VVZA0e5Y)
 
 
-## Features!
+## Features
 - multi threaded - each widget uses its own thread
 - customizeable - use the widget template to create whatever you want
 - configurable - each widget (if using template) will automatically create its own config file for you to tweak parameters
