@@ -1,2 +1,11 @@
-keys
-settings
+# Ignore keys and settings directories
+keys/
+settings/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore the virtual environment
+venv/
