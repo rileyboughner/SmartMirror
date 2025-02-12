@@ -5,9 +5,9 @@ Its like a mirror but smarter! This project is meant for those who want to build
 
 You are supposed to be looking at a mostly blank screen! The project it supposed to run on something like a rasberry pi (or im using my highschool chromebook) and you run the program in full screen and place the monitor behind two way glass. I was heavily inspired by these videos:
 
-[DIY Smart Mirror](https://www.youtube.com/watch?v=OYlloiaBINo)
-[ALEXA Smart Mirror](https://www.youtube.com/watch?v=aa3VVZA0e5Y)
-[HOW TO BUILD A SMART MIRROR](https://www.youtube.com/watch?v=aa3VVZA0e5Y)
+- [DIY Smart Mirror](https://www.youtube.com/watch?v=OYlloiaBINo)
+- [ALEXA Smart Mirror](https://www.youtube.com/watch?v=aa3VVZA0e5Y)
+- [HOW TO BUILD A SMART MIRROR](https://www.youtube.com/watch?v=aa3VVZA0e5Y)
 
 
 ## Features!
